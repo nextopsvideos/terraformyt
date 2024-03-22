@@ -1,1 +1,1 @@
-vnet_name = "NextOpsVNET01"
+vnet_name = "penises for all add ons"
